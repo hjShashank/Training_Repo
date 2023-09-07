@@ -668,18 +668,6 @@ namespace AVIN_FS_Tool
             "avinfstool.support@avinsystems.com";
         }
 
-        /// <summary>
-        /// Method Name              : Grid1_MouseWheel
-        /// Method Description       : -
-        /// Requirement ID           : - 
-        /// Method input Parameters  : object sender, MouseWheelEventArgs e
-        /// Param Name	             : -
-        /// Methods Return Parameter : void
-        /// </summary>
-        private void Grid1_MouseWheel(object sender, MouseWheelEventArgs e)
-        {
-
-        }
 
         /// <summary>
         /// Method Name              : Help_click
