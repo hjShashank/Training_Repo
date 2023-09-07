@@ -35,10 +35,7 @@ namespace AVIN_FS_Tool
     /// Class Name         : GEN_Application_View
     /// Class Description  : 
     /// </summary>
-    public partial class GEN_Application_View : Application
-    {
-
-    } //End of public partial class GEN_Application_View : Application
+    
 } //End of namespace AVIN_FS_Tool
 
 /**********************************************************************************
